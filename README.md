@@ -1,14 +1,14 @@
 # 💫About Me :
-🎡🎡I am currently working on building a FastAPI backend for a health AI solution in Africa
-'\n'
+🎡🎡I am currently working on building a FastAPI backend for a sustainability solution in Africa
+
 📉✍I love to collaborate with people building Streamlit application for fun
-'\n'
+
 💪📒📖💡📚⏲I am learning Apache ecosystem for data engineering with strong knowledge on Zookeper and Kafka
-'\n'
+
 🗯💬🗨Ask me about data analytics, traditional statistics, data modelling, SQL, NLP, Similarity Search, LLM, Data Science, PowerBI, Tableau, Looker Studio
-'\n'
+
 💦💤💚💜🤎Fun Fact - I am very dedicated to learning new technologies in Data Space
-'\n'
+
 ❕🔏I really do not fancy a certificate, I love solving the problem rather than certification
 
 ## 🌐Socials
